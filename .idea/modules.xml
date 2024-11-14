@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/poemsystem.iml" filepath="$PROJECT_DIR$/poemsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poemsystem_/poemsystem_.iml" filepath="$PROJECT_DIR$/poemsystem_/poemsystem_.iml" />
+    </modules>
+  </component>
+</project>
